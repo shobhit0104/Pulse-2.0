@@ -1,0 +1,6 @@
+{
+  "name": "Pulse",
+  "description": "Continuous health-awareness and chronic-care support platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
